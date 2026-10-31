@@ -18,7 +18,7 @@ Sou Felipe, estudante do 2° semestre de Matemática Aplicada e Computacional na
 
 Analogamente ao curso no qual tomo parte, me interesso por âmbitos diversos e multidisciplinares nos quais eu possa explorar com código e com Matemática.
 
-As ferramentas que mais utilizo no momento são Python, Pandas e Matplotlib/Plotly Express para análise de dados.
+As ferramentas que mais utilizo no momento são Python, Pandas e Matplotlib/Plotly Express para análise de dados. Também possuo conheicmentos em SQL e fundamentos básicos de API.
 
 Até o momento, meu único projeto individual é o da análise e regressão linear de tubos sonoros, que curiosamente fiz em cerca de 1 dia, mas em breve haverão mais.
 
