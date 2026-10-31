@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Sou Felipe, estudante do 2° semestre de Matemática Aplicada e Computacional na Universidade Estadual de Campinas.
 
-Analogamente ao curso no qual tomo parte, me interesso por âmbitos diversos e multidisciplinares nos quais eu possa explorar com código e com matemática.
+Analogamente ao curso no qual tomo parte, me interesso por âmbitos diversos e multidisciplinares nos quais eu possa explorar com código e com Matemática.
 
 As ferramentas que mais utilizo no momento são Python, Pandas e Matplotlib/Plotly Express para análise de dados.
 
